@@ -90,3 +90,6 @@ In those rounds after the initial opening round, players with at least five (5) 
 
 ## After-Action Reports
 To get students to reflect on their experiences and what they have learned, all game sessions should end with an After-Action Report session. This will allow students to interact with the fellow students they competed against, as well as the instructor. Use this time to emphasize key lessons that can be lifted from the roleplaying session. 
+
+---
+{% include footer.html %}
