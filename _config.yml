@@ -1,5 +1,7 @@
 # Basic Formatting Information
-theme: jekyll-slate
+remote_theme: pages-themes/slate@v0.2.0
+plugins:
+- jekyll-remote-theme
 title: Simple Classroom RPG
 description: A simple 3d6 roleplaying game for the college classroom. Hopes to build micro-cohorts, promote critical thinking, and tackle important content-specific concepts.
 
