@@ -86,5 +86,7 @@ For those players who fail out the gate, they can be penalized one, two, or thre
 
 If a group wishes to try and resolve their scenario after failure or failure in dice rolls, they can do so, but they are only awarded half the Victory Tokens (so three tokens) for their trouble if they succeed. If they fail again, they fail that scenario and must move onward. 
 
+In those rounds after the initial opening round, players with at least five (5) Victory Tokens can purchase an automatic success on the scenario in question. They receive no reward for doing so. 
+
 ## After-Action Reports
 To get students to reflect on their experiences and what they have learned, all game sessions should end with an After-Action Report session. This will allow students to interact with the fellow students they competed against, as well as the instructor. Use this time to emphasize key lessons that can be lifted from the roleplaying session. 
