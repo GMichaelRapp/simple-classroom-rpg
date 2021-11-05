@@ -43,4 +43,47 @@ Like many strategy roleplaying games, players will need outside materials plus w
   3.	Each team is assigned an organization or entity they will roleplay during the game session.
   4.	The day before the roleplaying session, players (i.e., students) will be assigned preparatory materials to read and/or research to conduct before the RPG session. Encourage players to work with their teammates to prepare for the RPG session.
 
-## 
+## Order of Play
+1.	On the day of the RPG session, the referee will break up the class into various (assigned) groupings. 
+2.	The referee should give all teams at least five (5) minutes to set up and prepare their materials. 
+3.	Each team should be given two (2) starting Victory Tokens.
+4.	Each group is then given a typed-written scenario relevant to their organization or entity. 
+5.	Players are given ten (10) minutes to read, comprehend, and tackle their assigned scenario. 
+6.	At the end of the ten (10) minutes, groups must present their solutions. 
+  - a.	Solutions that are successfully roleplayed, critically approached, and/or problem-solved with skill are given an automatic success, meaning the team is awarded five (5) Victory Tokens. 
+ -  b.	Solutions requiring a bit of luck or chance will mean that the team’s leader (or an assigned player from the group) must roll three (3) six-sided dice against a predetermined difficulty/target number pairing. Success means players are awarded five (5) Victory Tokens. Failure means players will have to tackle the scenario again until they are successful. Failure breeds chaos, which means a scenario might cause some headaches if a team fails to meet the task with success. The team that fails must relinquish one (1), two (2), or three (3) of their Victory Tokens to the referee, depending on the level of failure. 
+ -  c.	Some roleplaying, problem-solving, and critical thinking may not be enough to tackle the scenario, meaning failure is a result. The team that fails must relinquish one (1), two (2), or three (3) of their Victory Tokens to the referee, depending on the level of failure. 
+7.	After the first round, players are given another scenario. This process can be completed several times during a 75-minute class time. Mileage may vary. 
+8.	Once a team reaches twenty-five (25) Victory Tokens, a winner is announced by the referee. 
+9.	At the end of the game session, leave a few minutes open for an after-action reporting to take place among the students. 
+
+## Player Skill
+Player skill is a must for this game. Players will rely on their critical thinking, problem-solving, and role-playing abilities to overcome challenges facing their organizations/entities. While dice can complicate matters, referees will want to offer scenarios that can be resolved with critical thinking, problem-solving, and roleplaying. This triumvirate of abilities is going to make for meaningful experiences, engagement, and productive learning moments. 
+
+## Rolling Dice
+Dice are rolled when there is an element of chance involved with the resolution of a given scenario. Three (3) six-sided dice are rolled against a predetermined target number established by the game’s referee. Players must roll equal to or under the target number to achieve success. 
+
+When rolling three (3) six-sided dice, three (3) and four (4) are considered automatic or critical successes. Sixteen (16), seventeen (17), and eighteen (18) are considered automatic or critical failures. 
+
+Target numbers, and their associated difficulty descriptors, have been collected in the table below for quick reference. 
+
+| Target Number on 3d6| Difficulty Descriptor    |    
+| :-------------: |:-------------:| 
+| 5 or lower           | Hard| 
+| 10 or lower          | Moderate     |   
+| 15 or lower           | Easy     |
+
+
+## Criticals, Successes, Failures, & Victory Tokens
+When rolling three (3) six-sided dice, three (3) and four (4) are considered critical successes. This means players are awarded double the Victory Tokens for their success. Rolling sixteen (16), seventeen (17), or eighteen (18) means players have rolled a critical failure. This means they must give back one (1) for rolling a sixteen (16), two (2) for a seventeen, or three (3) for an eighteen rolled on the three (3) six-sided dice.
+
+Success may come easy for those teams who are powerhouses when it comes to problem-solving, roleplaying, and critical thinking. Those who excel at these abilities, and succeed on their first try, are awarded a full five (5) Victory Tokens. If the students succeed with a skill unparalleled in the other groups, the referee is encouraged to give an additional one, two, or three Victory Tokens to the group in question. 
+
+If players have a solution that resolves a scenario requiring a bit of chance, they will need to roll the three (3) six-sided dice. If they succeed, they are awarded five (5) Victory Tokens. If they succeed with a critical success, they are given double the number of Victory Tokens. 
+
+For those players who fail out the gate, they can be penalized one, two, or three Victory Tokens, depending on the level of failure. If they fail due to a dice roll, they should be penalized at the discretion of the referee. Critical failures are penalized one (for a sixteen rolled), two (for a seventeen rolled), or three (for an eighteen rolled). 
+
+If a group wishes to try and resolve their scenario after failure or failure in dice rolls, they can do so, but they are only awarded half the Victory Tokens (so three tokens) for their trouble if they succeed. If they fail again, they fail that scenario and must move onward. 
+
+## After-Action Reports
+To get students to reflect on their experiences and what they have learned, all game sessions should end with an After-Action Report session. This will allow students to interact with the fellow students they competed against, as well as the instructor. Use this time to emphasize key lessons that can be lifted from the roleplaying session. 
